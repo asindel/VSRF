@@ -1,17 +1,21 @@
 # Volumetric Super-Resolution Forests (VSRF)
 Volumetric Super-Resolution Forests for MRI Super-Resolution
 
-This is the source code to the conference article submitted to ICIP 2018.
+This is the source code to the conference article accepted at ICIP 2018.
 
 ## Citation
 The source code is only for academic use, no commercial use is allowed.
-If you use or adapt our code in your research, please cite our [arXiv paper](https://arxiv.org/abs/1802.05518):
+If you use or adapt our code in your research, please cite our [ICIP article](https://ieeexplore.ieee.org/document/8451320):
 
-	  @article{articleVSRF,
-		author = {Sindel, Aline and Breininger, Katharina and K\"a{\ss}er, Johannes and Hess, Andreas and Maier, Andreas and K\"ohler, Thomas},
-		title = {Learning from a Handful Volumes: MRI Resolution Enhancement with Volumetric Super-Resolution Forests},
-		year = {2018},
-		journal = {arXiv:1802.05518}
+	  @INPROCEEDINGS{8451320,
+		author={A. Sindel and K. Breininger and J. K\"a{\ss}er and A. Hess and A. Maier and T. K\"ohler},
+		booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
+		title={Learning from a Handful Volumes: MRI Resolution Enhancement with Volumetric Super-Resolution Forests},
+		year={2018},
+		pages={1453-1457},
+		doi={10.1109/ICIP.2018.8451320},
+		ISSN={2381-8549},
+		month={Oct}
 	  }
 
 ## Requirements
